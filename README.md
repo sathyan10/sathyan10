@@ -43,7 +43,7 @@ Country = "🇮🇳"
 
 ## Github Trophy🏆
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=itsyogieu&theme=onedark)](https://github.com/sathyan10)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sathyan10&theme=onedark)](https://github.com/sathyan10)
 
 
 
