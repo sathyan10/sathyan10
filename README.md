@@ -23,9 +23,6 @@ Country = "🇮🇳"
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sathyan10&show_icons=true&locale=en" alt="sathyan10" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sathyan10&" alt="sathyan10" /></p>
 
 
 
@@ -48,9 +45,6 @@ Country = "🇮🇳"
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=itsyogieu&theme=onedark)](https://github.com/itsyogieu)
 
-<p><img align="center" src="[https://github-readme-stats.vercel.app/api/top-langs?username=sathyan10&show_icons=true&locale=en&layout=compact]" alt="sathyan10"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sathyan10&show_icons=true&locale=en" alt="sathyan10" /></p>
 
-<p align="center">
-    <img src="https://img.shields.io/badge/THANKS%20FOR-VISITING%20💙-red?style=for-the-badge&logo=github"/>
-</p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sathyan10&" alt="sathyan10" /></p>
