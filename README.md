@@ -1,6 +1,6 @@
 
 ### About 🙋🏻‍♂️
-```python
+```JAVA
 Name = "Sathyan M"
 who_i_am = ['Student💙']
 Country = "🇮🇳"
@@ -43,7 +43,7 @@ Country = "🇮🇳"
 
 ## Github Trophy🏆
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=itsyogieu&theme=onedark)](https://github.com/itsyogieu)
+[![trophy](https://github-profile-trophy.vercel.app/?username=itsyogieu&theme=onedark)](https://github.com/sathyan10)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sathyan10&show_icons=true&locale=en" alt="sathyan10" /></p>
 
