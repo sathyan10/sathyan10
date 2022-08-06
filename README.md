@@ -43,7 +43,7 @@ Country = "🇮🇳"
 
 ## Github Trophy🏆
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sathyan10&theme=onedark)](https://github.com/sathyan10)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sathyan10&theme=onedark)]
 
 
 
@@ -53,3 +53,8 @@ Country = "🇮🇳"
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sathyan10&show_icons=true&locale=en" alt="sathyan10" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sathyan10&" alt="sathyan10" /></p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/THANKS%20FOR-VISITING%20💙-red?style=for-the-badge&logo=github"/>
+</p>
+
