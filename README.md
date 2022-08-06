@@ -5,7 +5,7 @@ Name = "Sathyan M"
 who_i_am = ['Student💙']
 Country = "🇮🇳"
 ```
-[![Profile views](https://gpvc.arturio.dev/itsyogieu)](https://github.com/itsyogieu)
+[![Profile views](https://gpvc.arturio.dev/sathyan10)](https://github.com/sathyan10)
 
 
 
