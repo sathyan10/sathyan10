@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sathyan" target="blank"><img src="https://img.shields.io/twitter/follow/sathyan?logo=twitter&style=for-the-badge" alt="sathyan" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Tool**
+
 
 - 📫 How to reach me **msathyan10@gmail.com**
 
@@ -17,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/sathyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sathyan" height="30" width="40" /></a>
-<a href="https://twitter.com/sathyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sathyan" height="30" width="40" /></a>
+<a href="https://dev.to/sathyan" target="blank"><img align="center" alt="sathyan" height="30" width="40" /></a>
+<a href="https://twitter.com/sathyan" target="blank"><img align="center" alt="sathyan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sathyan-m-580ba3216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sathyan-m-580ba3216/" height="30" width="40" /></a>
 <a href="https://medium.com/@sathyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sathyan" height="30" width="40" /></a>
 <a href="/sathyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="sathyan" height="30" width="40" /></a>
