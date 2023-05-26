@@ -5,12 +5,12 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sathyan10&label=Profile%20views&color=0e75b6&style=flat" alt="sathyan10" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sathyan10" alt="sathyan10" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sathyan10" alt="sathyan10" /></a> </p>
 
 - 📫 How to reach me **msathyan10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/sathyan-m-6893251a0" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="sathyan-m-6893251a0" height="30" width="40" /></a>
 <a href="https://instagram.com/iam_sathyan" target="blank"><img align="center" src="https://helios-i.mashable.com/imagery/articles/05ayESsjTP2NcNBTuDsWnfu/hero-image.fill.size_1200x1200.v1611609265.png" alt="iam_sathyan" height="30" width="40" /></a>
 </p>
