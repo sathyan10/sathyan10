@@ -1,25 +1,26 @@
-
-<h3 align="center">Hello!👋 I'm Sathyan, 
- a passionate student with a deep interest in coding and exploring new technologies.
- I love to constantly learn and grow in the world of programming</h3>
+# 💫 About Me:
+Hello!👋 <br>              I'm Sathyan, <br>      a passionate student with a deep interest in coding and exploring new technologies.I love to constantly learn and grow in the world of programming
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sathyan10&label=Profile%20views&color=0e75b6&style=flat" alt="sathyan10" /> </p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iam_sathyan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sathyan-m) 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sathyan10" alt="sathyan10" /></a> </p>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sathyan10&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sathyan10&theme=vision-friendly-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sathyan10&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 📫 How to reach me **msathyan10@gmail.com**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sathyan10&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/sathyan-m-6893251a0" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="sathyan-m-6893251a0" height="30" width="40" /></a>
-<a href="https://instagram.com/iam_sathyan" target="blank"><img align="center" src="https://helios-i.mashable.com/imagery/articles/05ayESsjTP2NcNBTuDsWnfu/hero-image.fill.size_1200x1200.v1611609265.png" alt="iam_sathyan" height="30" width="40" /></a>
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sathyan10&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-<h3 align="center">Languages and Tools:</h3>
- <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-java-60-1174953.png" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-python-3521655-2945099.png" alt="python" width="40" height="40"/> </a>
- <a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-html-5728485-4781249.png" alt="HTML" width="40" height="40"/> </a>
- <a href="https://www.csscorp.com" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAPnzJR4L-zmLRWPDbEfPY8uzt2ezteKE0qg&usqp=CAU" alt="CSS" width="40" height="40"/> </a> </p>
+---
+[![](https://visitcount.itsvg.in/api?id=sathyan10&icon=5&color=4)](https://visitcount.itsvg.in)
 
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sathyan10&theme=github-light&border_radius=0" alt="sathyan10" /></p>
+<kbd>
+THANK YOU FOR VISITING✌️
+</kbd> 
