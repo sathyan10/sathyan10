@@ -1,7 +1,7 @@
-<h1 align="center">Hello!👋 I'm Sathyan, 
+<h3 align="center">Hello!👋 I'm Sathyan, 
  a passionate student with a deep interest in coding and exploring new technologies.
- I love to constantly learn and grow in the world of programming</h1>
-<h3 align="center">learning...</h3>
+ I love to constantly learn and grow in the world of programming</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sathyan10&label=Profile%20views&color=0e75b6&style=flat" alt="sathyan10" /> </p>
 
