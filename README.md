@@ -1,61 +1,23 @@
+<h1 align="center">Hi 👋, I'm Sathyan</h1>
+<h3 align="center">learning...</h3>
 
-### About 🙋🏻‍♂️
-```JAVA
-Name = "Sathyan M"
-who_i_am = ['Student💙']
-Country = "🇮🇳"
-```
-[![Profile views](https://gpvc.arturio.dev/sathyan10)](https://github.com/sathyan10)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sathyan10&label=Profile%20views&color=0e75b6&style=flat" alt="sathyan10" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sathyan10" alt="sathyan10" /></a> </p>
 
+- 📫 How to reach me **msathyan10@gmail.com**
 
-
-
-- 👨‍💻 I'm a Student .
-- 👋 Hi, I’m Currently Studying B.Tech-IT
-- 👀 I’m interested in ... Technology
-- 🌱 I’m currently learning ...
-
-- 📫 How to reach me ...[E-mail](msathyan10@gmail.com)
-
-### Languages and Tools I Love💙
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-
-
-
-
-
-
-
-
-
-    
-
-
-
-
-
-
-
-<br />
-<br />
-
-
-## Github Trophy🏆
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sathyan10&theme=onedark)]
-
-
-
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sathyan10&show_icons=true&locale=en" alt="sathyan10" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sathyan10&" alt="sathyan10" /></p>
-
-<p align="center">
-    <img src="https://img.shields.io/badge/THANKS%20FOR-VISITING%20💙-red?style=for-the-badge&logo=github"/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sathyan-m-6893251a0" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="sathyan-m-6893251a0" height="30" width="40" /></a>
+<a href="https://instagram.com/iam_sathyan" target="blank"><img align="center" src="https://helios-i.mashable.com/imagery/articles/05ayESsjTP2NcNBTuDsWnfu/hero-image.fill.size_1200x1200.v1611609265.png" alt="iam_sathyan" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+ <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-java-60-1174953.png" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-python-3521655-2945099.png" alt="python" width="40" height="40"/> </a>
+ <a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-html-5728485-4781249.png" alt="HTML" width="40" height="40"/> </a>
+ <a href="https://www.csscorp.com" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAPnzJR4L-zmLRWPDbEfPY8uzt2ezteKE0qg&usqp=CAU" alt="CSS" width="40" height="40"/> </a> </p>
+
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sathyan10&theme=github-light&border_radius=0" alt="sathyan10" /></p>
 
