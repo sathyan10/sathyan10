@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello!👋 <br>              I'm Sathyan, <br>      a passionate student with a deep interest in coding and exploring new technologies.I love to constantly learn and grow in the world of programming
+Hello!👋 <br>              I'm Sathyan, <br>      a passionate Developer<br> with a deep interest in <bold><italic>coding</italic></bold> and exploring new technologies . I love to constantly learn and grow in the world of programming
 
 
 ## 🌐 Socials:
