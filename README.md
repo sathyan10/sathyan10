@@ -2,15 +2,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%236C63FF&size=30&center=true&vCenter=true&width=600&height=70&lines=Hey+there,+welcome!+👋;I+am+a+Passionate+Developer;I+love+coding+and+creating+new+things" alt="Typing SVG" />
 </div>
 
-<h1 align="center" style="color: #6c63ff;">Hey there, welcome! 👋</h1>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%236C63FF&size=24&width=600&lines=Welcome+to+my+GitHub+profile!;I+am+a+Passionate+Developer;I+love+coding+and+creating+new+things." alt="Typing SVG" />
-</div>
 
-<h3 align="center" style="color: #ff6347;">👩‍💻 About Me</h3>
+<h2 align="center" style="color: #ff6347;">👩‍💻 About Me</h2>
 
-<p align="center" style="font-size: 18px; line-height: 1.6;">
+<p align="center" style="font-size: 18px; line-height: 1.9;">
   - 🔭 I’m a Developer<br>
   - 📚 Currently learning various technologies<br>
   - ⚡ Poetry and books are my escape<br>
@@ -19,11 +15,11 @@
   In ways that I never could before.
 </p>
 
-<hr style="border: 1px solid #ff6347; width: 80%;">
+<hr style="border: 5px solid red; width: 80%;">
 
-<h3 align="center" style="color: #ff6347;">🛠 Languages and Tools</h3>
+<h2 align="center" style="color: #ff6347;">🛠 Languages and Tools</h2>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-evenly;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="40" alt="Java logo" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="40" alt="Python logo" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="JavaScript logo" style="margin: 10px;" />
@@ -48,13 +44,6 @@
 
 <hr style="border: 1px solid #ff6347; width: 80%;">
 
-<h3 align="center" style="color: #ff6347;">📊 GitHub Activity</h3>
-
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=sathyan10&theme=dracula" alt="GitHub Activity Graph" style="max-width: 100%; height: auto;" />
-</div>
-
-<hr style="border: 1px solid #ff6347; width: 80%;">
 
 <h3 align="center" style="color: #ff6347;">✉ Contact Me</h3>
 
@@ -72,20 +61,14 @@
     <img src="https://img.shields.io/static/v1?message=CodingNinjas&logo=codingninjas&label=&color=000000&logoColor=black&labelColor=&style=for-the-badge" height="25" alt="CodingNinjas logo" style="margin: 5px;" />
   </a>
 </div>
-
+<br><br><br>
 <div align="center" style="margin-top: 20px;">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </div>
 
 <hr style="border: 1px solid #ff6347; width: 80%;">
 
-<h3 align="center" style="color: #ff6347;">🎨 My Projects</h3>
 
-<p align="center" style="font-size: 18px; line-height: 1.6;">
-  - 🚀 <a href="https://github.com/sathyan10/project1">Project 1</a>: Description of project 1<br>
-  - 🚀 <a href="https://github.com/sathyan10/project2">Project 2</a>: Description of project 2<br>
-  - 🚀 <a href="https://github.com/sathyan10/project3">Project 3</a>: Description of project 3<br>
-</p>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sathyan10&theme=dracula" alt="GitHub Trophies" style="max-width: 100%; height: auto;" />
