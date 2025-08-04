@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=28&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&height=70&lines=Hey+there!+I'm+Sathyan+👋;Web+Developer+%7C+Tech+Explorer+💡;React+%7C+Node+%7C+PostgreSQL+%7C+Java+🌐" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" alt="cool coding gif" />
-</div>
-
 ---
 
 ## 🧑‍💻 About Me
@@ -23,7 +19,7 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,java,react,nodejs,express,postgres,mysql,antd" /><br/>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=vscode,git" />
 </div>
 
 ---
@@ -68,17 +64,8 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sathyan-m-6893251a0" target="_blank">
+  <a href="https://www.linkedin.com/in/sathyan-m" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/iam_sathyan" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://telegram.me/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://www.codingninjas.com/studio/profile/0ec74247-1211-48f8-9a26-f03238fe9cc7" target="_blank">
-    <img src="https://img.shields.io/badge/CodingNinjas-000000?style=for-the-badge&logo=codingninjas&logoColor=orange" />
   </a>
 </p>
 
